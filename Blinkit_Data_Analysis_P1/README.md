@@ -1,1 +1,1 @@
-This folder contins all files for Project 1
+This folder contins all files of Project 1
